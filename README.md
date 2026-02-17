@@ -1,6 +1,6 @@
 # Yashar Shahsavand
 
-Applied AI Engineer – Computer Vision, Speech Systems, and Local LLMs
+Applied AI Engineer – Computer Vision, Speech Systems, and Local LLMs 
 Backend Engineer building local AI automation systems for operational workflows.
 I design and build deployable AI systems that run on local or edge hardware.
 My work focuses on industrial automation, human-machine interfaces, and privacy-preserving AI solutions without cloud dependency.
